@@ -3,4 +3,4 @@ Trabajo de iaac , crear una agencia de viajes.
 
 
 Colaboradores 
-Pedro Diaz.
+Pedro Diaz Arellano
