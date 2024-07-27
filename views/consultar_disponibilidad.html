@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Consultar Disponibilidad</title>
+    <link rel="stylesheet" type="text/css" href="../css/estilos.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Consultar Disponibilidad</h2>
+        <form action="../consultar_disponibilidad.php" method="post" onsubmit="return validarConsulta()">
+            <label for="origen">Origen:</label>
+            <input type="text" id="origen" name="origen" required><br>
+            
+            <label for="destino">Destino:</label>
+            <input type="text" id="destino" name="destino" required><br>
+            
+            <label for="fecha">Fecha:</label>
+            <input type="date" id="fecha" name="fecha" required><br>
+            
+            <input type="submit" value="Consultar">
+        </form>
+
+        <script>
+            function validarConsulta() {
+                // Validaciones en JavaScript si son necesarias
+                return true;
+            }
+        </script>
+    </div>
+</body>
+</html>
