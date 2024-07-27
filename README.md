@@ -1,2 +1,6 @@
 # agencia_viajes
-Traabajo de iaac , crear una agencia de viajes,
+Trabajo de iaac , crear una agencia de viajes.
+
+
+Colaboradores 
+Pedro Diaz.
