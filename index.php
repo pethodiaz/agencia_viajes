@@ -8,13 +8,13 @@
 </head>
 <body>
     <div class="container">
-        <h1>Bienvenido a la Agencia de Viajes</h1>
-        <h2>Navega y Gestiona tus Reservas</h2>
-        <div class="nav-links">
-            <a href="views/agregar_vuelo.html">Agregar Vuelo</a>
-            <a href="views/agregar_hotel.html">Agregar Hotel</a>
-            <a href="mostrar_vuelos.php">Mostrar Vuelos</a>
-            <a href="mostrar_hoteles.php">Mostrar Hoteles</a>
+     <h1>Bienvenido a la Agencia de Viajes</h1>
+    <h2>Navega y Gestiona tus Reservas</h2>
+    <div class="nav-links">
+        <a href="views/agregar_vuelo.html">Agregar Vuelo</a>
+        <a href="views/agregar_hotel.html">Agregar Hotel</a>
+        <a href="mostrar_vuelos.php">Mostrar Vuelos</a>
+        <a href="mostrar_hoteles.php">Mostrar Hoteles</a>
         </div>
     </div>
 </body>
