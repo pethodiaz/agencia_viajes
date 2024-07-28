@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="container">
-     <h1>Bienvenido a la Agencia de Viajes</h1>
+     <h1>Bienvenido a la Agencia de Viajes 2024</h1>
     <h2>Navega y Gestiona tus Reservas</h2>
     <div class="nav-links">
         <a href="views/agregar_vuelo.html">Agregar Vuelo</a>
